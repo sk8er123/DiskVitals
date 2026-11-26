@@ -38,4 +38,4 @@ Give DiskVitals Full Disk Access so it can read drive data:
 2. Turn on **DiskVitals** (use **+** to add it from Applications if it is not listed).
 3. Quit and reopen DiskVitals.
 
-![Full Disk Access setting](docs/setting.png)
+![Full Disk Access setting](docs/setting1.png)
