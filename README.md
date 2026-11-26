@@ -29,3 +29,13 @@ The app is ad-hoc signed, so on another Mac the first launch needs right-click �
 
 - The health score is an estimate: min(lifetime left, available spare), capped when the drive reports a warning or failure.
 - When the drive does not report temperature thresholds, 70 °C / 80 °C are used.
+
+## macOS Setting
+
+Give DiskVitals Full Disk Access so it can read drive data:
+
+1. Open **System Settings → Privacy & Security → Full Disk Access**.
+2. Turn on **DiskVitals** (use **+** to add it from Applications if it is not listed).
+3. Quit and reopen DiskVitals.
+
+![Full Disk Access setting](docs/setting.png)
