@@ -1,0 +1,12 @@
+# 공개 저장소에는 앱 소스와 빌드 스크립트만 올린다 (allowlist)
+/*
+!/.gitignore
+!/README.md
+!/Package.swift
+!/Makefile
+!/build-app.sh
+!/Sources/
+!/Resources/
+!/tools/
+!/docs/
+.DS_Store
